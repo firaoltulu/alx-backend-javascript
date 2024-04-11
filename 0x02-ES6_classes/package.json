@@ -1,0 +1,23 @@
+{
+  "name": "0x02-es6_classes",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "0-classroom.js",
+  "dependencies": {
+    "Babel": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firaoltulu/alx-system_engineering-devops.git"
+  },
+  "author": "firaol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firaoltulu/alx-system_engineering-devops/issues"
+  },
+  "homepage": "https://github.com/firaoltulu/alx-system_engineering-devops#readme"
+}
